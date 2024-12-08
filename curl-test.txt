@@ -1,0 +1,13 @@
+curl -X POST https://d3cd-34-16-223-46.ngrok-free.app/v1/chat/completions \
+> -H "Content-Type: application/json" \
+> -H "Authorization: Bearer EMPTY" \
+> -d '{
+           "model": "Qwen/Qwen2.5-1.5B-Instruct",
+           "messages": [
+             {
+               "role": "user",
+               "content": "Uống thuốc kháng sinh thay đổi màu nước tiểu?"
+             }
+           ]
+         }'
+
