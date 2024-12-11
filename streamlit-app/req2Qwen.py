@@ -2,7 +2,7 @@ import requests
 import json
 from openai import OpenAI
 
-baseUrl = "https://0158-35-198-242-177.ngrok-free.app"
+baseUrl = "https://e01b-35-197-39-137.ngrok-free.app"
 url = baseUrl + "/v1/chat/completions"
 API_KEY = "EMPTY"
 
@@ -23,20 +23,22 @@ def makeData(prompt: str) :
         "messages": 
         [
             {
-            "role": "user",
+            "role": "system",
             "content": prompt,
             }
         ]
     }
     return data
 
-def Qwen(prompt: str) :
+def Qwen(prompt: str, userInput: str) :
     
     response = qwenAssist.chat.completions.create(
         model= "Qwen/Qwen2.5-1.5B-Instruct",
         messages= [
+            {"role": "system",
+             "content": prompt},
             {"role": "user",
-             "content": prompt}
+             "content": userInput}
         ]
     )
     

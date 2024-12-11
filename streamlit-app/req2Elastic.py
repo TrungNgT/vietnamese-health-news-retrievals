@@ -12,8 +12,9 @@ from Client import client
 def makeQuery(q: str) :
     query = {
         "query": {
-        "match": {
-            "description": q
+        "multi_match": {
+            "query": q,
+            "fields": ["description", "content"]
         }
     },
     "from": 0,  

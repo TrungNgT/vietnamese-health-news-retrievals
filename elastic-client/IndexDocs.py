@@ -1,8 +1,9 @@
 from Client import client
-from CreateIndex import indexName
 import json
 
-jsonFile_list = ['news1_100.json']
+indexName = "vietnamese_vinmec_doc"
+
+jsonFile_list = ['news301_400.json', 'news401_500.json', 'news501_600.json', 'news601_700.json', 'news701_800.json']
 # adding new here.
 
 for file_name in jsonFile_list :
@@ -14,4 +15,4 @@ for file_name in jsonFile_list :
     for item in data:
         client.index(index=indexName, document=item)
     
-    #print(len(data))
+    print(len(data))
