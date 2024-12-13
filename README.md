@@ -21,3 +21,8 @@ pip install -r requirements.txt
 cd streamlit-app
 streamlit run App.py
 ```
+- Logs of the latest prompt are in the [prompts_log.txt](/prompts_log.txt)
+
+## 4. Basic flow and experiment:
+
+![basic_flow_diagram](basic-flow.png)
