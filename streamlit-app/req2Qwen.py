@@ -2,7 +2,7 @@ import requests
 import json
 from openai import OpenAI
 
-baseUrl = "https://e01b-35-197-39-137.ngrok-free.app"
+baseUrl = "https://fff7-34-16-194-3.ngrok-free.app"
 url = baseUrl + "/v1/chat/completions"
 API_KEY = "EMPTY"
 
