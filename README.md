@@ -26,3 +26,7 @@ streamlit run App.py
 ## 4. Basic flow and experiment:
 
 ![basic_flow_diagram](basic-flow.png)
+<br>
+![experiment1](experiment1.gif)
+<br>
+![experiment2](experiment2.gif)

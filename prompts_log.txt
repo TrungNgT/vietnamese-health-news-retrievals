@@ -1,289 +1,331 @@
 Nhập vai: Bạn là 1 Bác sĩ tư vấn sức khỏe tổng quát hàng đầu ở Việt Nam.
-Bệnh nhân của bạn có đưa ra một câu hỏi như sau: chữa loét do tỳ đè.
+Bệnh nhân của bạn có đưa ra một câu hỏi như sau: đi ngoài phân đen là bệnh gì.
 Dưới đây là 4 bài viết có thể có liên quan đến câu hỏi bên trên.
 
 
 
-Bài viết thứ 1 :Bài viết bởi Bác sĩ Hồi sức cấp cứu - Khoa Hồi sức cấp cứu - Bệnh viện Đa khoa Quốc tế Vinmec Phú Quốc
+Bài viết thứ 1 :Bài viết được tham vấn chuyên môn cùng Bác sĩ chuyên khoa I Trần Quốc Vĩnh - Bác sĩ Cấp cứu - Khoa Hồi sức - Cấp cứu - Bệnh viện Đa khoa Quốc tế Vinmec Nha Trang.
 
-Loét do tỳ đè rất dễ xuất hiện nếu không biết cách chăm sóc bệnh nhân đúng cách. Thực tế, việc điều trị tình trạng loét do tỳ đè không phải là một việc làm dễ dàng bởi hầu hết các nguyên gây ra bệnh đều do ảnh hưởng từ một số cơ quan trong cơ thể.
+Đi ngoài phân đen là một hiện tượng thường gặp, có thể là do màu của thức ăn hoặc do sử dụng thuốc. Tuy nhiên, không thể loại trừ nguyên nhân đi ngoài phân đen là do một số bệnh lý hoặc tình trạng sức khỏe nghiêm trọng đang xảy ra trong cơ thể.
 
-1. Loét do tỳ đè là gì?
+1. Đi ngoài phân đen là do đâu?
 
-Loét tỳ đè được xác định bởi các biến đổi ở da và mô dưới da do tỳ đè lên các lồi xương gây ra. Nếu không được chú ý các lực này sẽ gây loét. Theo đó, phương pháp điều trị tốt các trường hợp loét do tỳ đè là phòng bệnh, song trong điều kiện tối ưu nhất cũng có trường hợp không phòng ngừa được.
+Bình thường, chúng ta có thể thấy phân màu đen trong trường hợp ăn một số thực phẩm đặc biệt hoặc do thuốc như ăn huyết (tiết), bổ sung sắt, thuốc có chứa Bismuth... Tuy nhiên, phân màu đen cũng có thể là dấu hiệu bệnh lý nhẹ hoặc nghiêm trọng liên quan đến đường tiêu hóa.
 
-Loét tỳ đè ở người cao tuổi có tỷ lệ cao nhất, do nằm viện lâu ngày, các bệnh nhân bị tổn thương cột sống, hoặc bệnh lý tim mạch có nguy cơ loét tỳ đè cao. Các yếu tố góp phần hình thành loét do tỳ đè bao gồm thiếu hụt dinh dưỡng, mất thể tích, trọng lượng tăng hoặc giảm, thiếu máu, đại tiện mất tự chủ, suy thận, đái tháo đường, bệnh ác tính, dùng thuốc an thần, phẫu thuật lớn, các rối loạn chuyển hóa, hút thuốc và nằm liệt giường hoặc ngồi trên xe lăn. Sau cùng bản thân da của người có tuổi giảm độ dày và tính đàn hồi, nên tăng nguy cơ tổn thương khi bị tỳ đè.
+Trên thực tế, khi máu chảy ra từ bất kỳ phần nào thuộc hệ thống tiêu hóa (bắt đầu từ miệng đến hậu môn) đều có thể dẫn đến việc đi ngoài phân đen hoặc phân có máu tươi. Bên cạnh đó, máu còn có thể chảy ra từ những tổn thương mũi họng, chảy xuống và được nuốt vào bên trong hệ tiêu hóa.
 
-Cơ chế gây tổn thương: do áp lực, các lực trượt, ma sát và độ ẩm. Hơn 90% loét tỳ đè xuất hiện trên các lồi xương của phần dưới cơ thể. Thời gian và áp lực cần thiết gây phá hủy mô tùy thuộc vào các yếu tố nguy cơ đang có. Yếu tố căn nguyên thứ hai là các lực trượt, gây ra bởi sự trượt của các bề mặt cận kề, sự trượt này gây ép lên các dòng mao mạch của lớp dưới da, ví dụ như nâng phần thân trên của bệnh nhân lên thì áp lực trượt tác động đến phần cùng cụt của bệnh nhân. Ma sát là lực được tạo ra khi hai bề mặt chuyển dịch qua nhau ví dụ như bệnh nhân trượt trên giường, lực ma sát gây tổn thương biểu bì. Sau cùng là độ ẩm làm tăng nguy cơ loét do tỳ đè, có sự tương quan rõ rệt khi tồn tại giữa mất tự chủ tiểu tiện và loét. Do tăng nguy cơ nhiễm trùng da, nên khi có loét do tỳ đè ở vùng xương cùng phải chỉ định đặt thông tiểu lâu dài khi người bệnh mất tự chủ.
+Cụ thể có ba nguyên nhân chính gây chảy máu là: chảy máu do loét dạ dày – tá tràng (phổ biến nhất), do vỡ tĩnh mạch thực quản và chảy máu đường mật. Ngoài ra còn có thể do chảy máu chân răng, chảy máu lúc cắt amidan, ho ra máu khiến người bệnh nuốt máu xuống đường tiêu hóa. Máu trong đường tiêu hóa dưới tác động của dịch vị và dịch ruột sẽ làm cho hồng cầu biến chất và trở thành màu đen.
 
-Thiếu máu khiến tình trạng loét nghiệm trọng hơn
-2. Đánh giá lâm sàng loét do tỳ đè
+Nếu đi ngoài phân đen sệt như hắc ín và bốc mùi hôi thối thì đây thường là một triệu chứng gợi ý tình trạng chảy máu đường tiêu hóa trên (đoạn thực quản, dạ dày, gan mật hoặc ruột non). Nếu tổn thương đường tiêu hóa thấp (đoạn đại tràng, trực tràng hay hậu môn) thì trong phân có thể lẫn máu máu đỏ tươi kèm theo cục máu đông.
 
-Đánh giá tốt loét do tỳ đè là phân loại loét theo mức độ nặng của nó theo mức độ sâu của tổn thương.
+Tùy thuộc vào tổn thương lớn hay nhỏ, mức độ xuất huyết bên trong hệ tiêu hóa và thời gian máu lưu lại trong ruột mà có thể thấy được màu sắc của máu trong phân. Nếu chỉ có một lượng rất nhỏ máu trong phân thường sẽ không thay đổi đáng kể màu sắc của phân.
 
-Loét tỳ đè độ I: Đáp ứng viêm cấp ở tất cả các lớp của da, biểu hiện là một khu vực hồng ban không có thể làm trắng lại được xác định rõ trên nền da còn nguyên vẹn.
-Loét tỳ đè độ II: Biểu hiện bằng phá vỡ biểu bì và chân bì, có hồng ban xung quanh, hoặc đám cứng, hoặc cả hai. Nó là hậu quả của đáp ứng viêm lan rộng dẫn đến phản ứng của các nguyên bào sợi.
-Loét tỳ đè độ III: Đáp ứng viêm được đặc trưng bởi loét da hoàn toàn không đồng đều mở rộng vào mô dưới da nhưng chưa qua lớp mạt phía dưới. Ở đây tổn thương có nền chảy dịch, mùi hôi, hoại tử.
-Loét tỳ đè độ IV: Thâm nhập vào lớp mạc sâu, phá hủy hàng rào chắn cuối cùng để lan rộng. Về mặt lâm sàng, nó giống loét tỳ đè độ III tuy nhiên xương, khớp, hoặc cơ có thể bị ảnh hưởng.
+Viêm loét dạ dày có thể là nguyên nhân gây ra hiện tượng phân đen
+2. Các triệu chứng kèm theo đi ngoài phân đen
+2.1 Triệu chứng thường thấy
+Đau bụng.
+Thay đổi thói quen đi đại tiện.
+Tiêu chảy.
+Chướng bụng
+Các triệu chứng giống cúm như: mệt mỏi, sốt, đau họng, nhức đầu, ho, đau nhức...
+Phân có mùi hôi thối
+Buồn nôn và nôn
+Xuất hiện tình trạng vàng da.
+Ăn không ngon
+Đau hoặc nóng rát trực tràng.
+Giảm cân.
+2.2 Triệu chứng nghiêm trọng cần lưu ý
+Thay đổi tri giác: lơ mơ, hôn mê, không đáp ứng với kích thích.
+Thay đổi trạng thái tâm thần, hành vi đột ngột: nhầm lẫn, mê sảng, ảo giác và ảo tưởng.
+Chóng mặt.
+Sốt cao trên 39 độ C
+Đánh trống ngực, nhịp tim nhanh
+Khó thở, thở dốc, thở khò khè, không thể thở được hoặc nghẹt thở.
+Bụng gồng cứng.
+Đau bụng dữ dội.
+Bệnh nhân đi ngoài ra phân đen kèm theo sốt cao cần đến gặp bác sĩ
+3. Một số bệnh lý có triệu chứng đi ngoài phân đen
 
-Các biến chứng của loét tỳ đè có liên quan đến tỷ lệ mắc và tỷ lệ chết đáng kể. Hầu hết các biến chứng xuất hiện với loét độ III và IV và các biến chứng này bao gồm viêm mô tế bào, viêm xương khớp, nhiễm trùng khớp, viêm khớp xương mủ cấp và uốn ván. Uốn ván làm phức tạp thêm các loét tỳ đè vì thế nên dự phòng miễn dịch chống uốn ván bằng kháng huyết thanh và tiêm ngừa vắc - xin uốn ván.
+Khi đi ngoài phân đen kéo dài, có thể nghi ngờ một trong các bệnh lý sau đây:
 
-3. Phòng bệnh loét do tỳ đè như thế nào?
+Viêm loét dạ dày - tá tràng
 
-Bởi vì tỷ lệ mắc và tử vong rất lớn, đồng thời có thể gây ra gánh nặng về kinh tế gây ra do phải điều trị vấn đề này, nên phòng ngừa là mục đích chính. Xác định người bệnh có nguy cơ là bước đầu tiên trong lựa chọn các biện pháp đề phòng.
+Khi dạ dày bị tổn thương, viêm loét thậm chí là xuất huyết, máu từ vết loét tồn đọng sau đó sẽ đào thải lẫn vào phân. Một số tác nhân như thuốc kháng sinh, thuốc giảm đau có thể là nguyên nhân gây ra bệnh lý này.
 
-Những người bệnh có nguy cơ nên phải được đánh giá thường xuyên và phải đặt trong môi trường thúc đẩy sự phát triển của mô mềm. Sự phát triển này có thể đạt được nhờ vào việc sử dụng các kỹ thuật tư thế thích hợp và các bề mặt hỗ trợ. Phải khám da người bệnh để phát hiện các khu vực đỏ là chỉ điểm các biến đổi áp lực sớm. Khi thay đổi lại tư thế phải nâng người bệnh mà không được kéo lê lên khỏi giường hoặc xe đẩy để tránh tạo ma sát gây tổn thương lớp biểu bì. Tránh nâng thân trên bệnh nhân lên cao lớn hơn 30 độ để hạn chế các lực trượt.
+Viêm thực quản
 
-Các loại đệm, giường, và các dụng cụ cơ học đặc biệt đang có sẵn và có tác dụng ngăn ngừa loét tỳ đè do thay đổi áp lực trên các lồi xương. Các dụng cụ như đệm gel, đệm bọt, đệm ghế, và đệm da cừu có tác dụng phòng ngừa loét tì đè ở các vị trí giải phẫu đặc biệt. không có bất kỳ một dụng cụ đơn lẻ nào có hiệu quả trong phòng ngừa tất cả các loét tỳ đè.
+Khi bị viêm thực quản có chảy máu, máu cũng sẽ lẫn vào các chất thải dẫn đến hiện tượng đại tiện phân đen.
 
-Các đệm nổi tĩnh lực, thay đổi bằng các đệm khí áp, giường khí lỏng sẽ giúp ngăn ngừa và điều trị loét tỳ đè. Các giường này có khuynh hướng giảm áp lực nhờ việc sử dụng khí hoặc các chất nổi để duy trì sự phân bố trọng lượng người bệnh đồng đều. Tuy nhiên các phương tiện đó không thể nào thay thế được chăm sóc điều dưỡng cơ bản.
+Các bệnh về tai mũi họng
 
-Chăm sóc ngăn ngừa loét tỳ đè cũng có liên quan đến việc làm cải thiện các tình trạng nội khoa dễ khiến người bệnh phát triển các biến đổi áp lực. Phải hạn chế các thiếu hụt dinh dưỡng, mất tự chủ và tình trạng bất động. Tình trạng dinh dưỡng được đánh giá khi nhận người bệnh vào viện hoặc vào nhà điều dưỡng: Khi đã có loét phát triển thì tình trạng dinh dưỡng thường đã bị tổn thương đã bị tổn hại nặng và khó điều chỉnh.
+Khi mắc các vấn đề về tai mũi họng có thể xuất hiện triệu chứng chảy máu trong, máu được nuốt xuống dạ dày và đào thải theo phân. Đây là một nguyên nhân hiếm gặp dẫn đến hiện tượng phân đen nhưng hoàn toàn có thể xảy ra.
 
-Chăm sóc ngăn ngừa loét tỳ đè
-4. Xử trí loét do tỳ đè
+Viêm/u ruột non
 
-Bước đầu tiên trong xử trí loét tỳ đè là đánh giá mức độ loét và tình trạng toàn bộ của người bệnh, bao gồm cả tình trạng dinh dưỡng. Bất kể là mức độ loét như thế nào thì sự tuân thủ các nguyên tắc phòng bệnh cũng được phác họa ở trên vẫn rất quan trọng.
+Ruột non là bộ phận cuối cùng của hệ tiêu hóa, khi ruột non gặp vấn đề như viêm, u ruột thì màu sắc phân cũng sẽ bị biến đổi.
 
-4.1. Làm sạch vết thương và cắt bỏ mô hoại tử
+Chảy máu bên trong đường mật
 
-Mục đích chính của điều trị loét tỳ đè là nhằm tạo ra môi trường thúc đẩy mô hạt lành lặn. Vết thương được rửa sạch không gây khó chịu bằng gạc tẩm nước muối sinh lý, tưới rửa vết thương và rửa bằng nước xoáy. Nên tránh dùng các chất sát khuẩn độc tế bào như peroxit hydro và povidon-iod.
+Người có tiền sử bệnh gan, bị chấn thương gan, dập mật, sỏi mật... có thể dẫn đến hiện tượng xuất huyết đường mật, gây ra các tổn thương mạch máu, làm máu chảy xuống đường ruột khiến cho phân màu đen.
 
-Mô hoại tử ngăn ngừa sự làm lành vết thương và tạo ra các điều kiện thuận lợi cho sự nhiễm khuẩn. Phương pháp lý tưởng để cắt bỏ mô hoại tử ở các loét tỳ đè là phẫu tích gọn mô hoại tử. Phương pháp loại bỏ mô hoại tử bằng enzyme sử dụng các yếu tố chẳng hạn như fibrinolysin, collagenase và dextranomer chỉ nên sử dụng trong các khoảng thời gian giữa các lần cắt bỏ mô hoại tử bằng phẫu thuật để giúp làm tiêu đi các lớp hoại tử mỏng mà ít có thể tiếp cận được khi cắt. Do các yếu tố này không thể thâm nhập qua vảy mục hay không thể loại bỏ được số lượng lớn các mô nên việc sử dụng chúng bị hạn chế. Không có bằng chứng nào cho thấy rằng các kháng sinh tại chỗ có tác dụng tốt trong việc làm sạch vết thương và làm khô băng. Hơn nữa, các kháng sinh tại chỗ có thể làm cho mô nhạy cảm, thúc đẩy sự xuất hiện các vi sinh vật kháng thuốc, và gây độc toàn thân.
+Ung thư
 
-4.2. Băng bó
+Một số bệnh nhân ung thư dạ dày, trực tràng giai đoạn đầu sẽ có biểu hiện đi ngoài phân đen không rõ cơ chế. Tuy nhiên khi phát hiện phân có màu đen trong thời gian dài cần phải nhanh chóng thăm khám và điều trị ngay.
 
-Ngay khi vết thương sạch, nếu có mô hạt có thể nhìn thấy được, việc sử dụng băng làm thúc đẩy sự làm lành vết thương được khuyên dùng. Nguyên tắc thông thường là duy trì độ ẩm cho vết loét và làm khô da xung quanh. Các yếu tố thêm vào đối với việc lựa chọn dùng băng bao gồm cả mục đích kiểm soát sự tiết dịch, và các yêu cầu thời gian với người chăm sóc. Băng được lựa chọn bao gồm gạc có tẩm dung dịch muối và băng bít.
+Đi ngoài phân đen là dấu hiệu của bệnh ung thư dạ dày
+4. Đi ngoài phân đen có nguy hiểm không?
 
-Lý do sử dụng băng là ở chỗ chúng thường có thể lưu lại ở vết loét trong vài ngày, trái lại băng gạc sẽ phải thay vài lần trong 1 ngày. Sự thuận tiện này đặc biệt hữu ích cho sự kiểm soát vết loét ở bệnh nhân ngoại trú. Không được dùng các băng này khi có nhiễm trùng trên lâm sàng.
+Đi cầu phân đen là thường là biểu hiện của tình trạng chảy máu từ đường tiêu hóa (sau khi đã loại trừ nguyên nhân do thức ăn, thuốc), chúng ta không nên chủ quan với dấu hiệu này mà cần đi khám sớm để tìm nguyên nhân, Một số trường hợp đi cầu phân đen vào viện trễ có thể đe dọa đến tính mạng và làm lan rộng hay di căn tế bào ung thư.
 
-Băng bó vết loét để tránh nhiễm trùng
-4.3. Xử trí các biến chứng
+Ngoài ra, việc chảy máu tiêu hóa rỉ rả lâu ngày có thể dẫn đến thiếu máu, xuất huyết và mất máu nặng gây sốc, nếu chảy máu đường mật thể nặng có thể dẫn đến các biến chứng nhiễm trùng và thậm chí có thể gây tử vong.
 
-Hai biến chứng hay gặp nhất là nhiễm trùng và vết thương không lành. Với các vết thương sạch không lành được, phải đánh giá lại tình trạng toàn bộ của người bệnh và điều trị thử trong 2 tuần bằng một loại kháng sinh phổ rộng tại chỗ. Ở những bệnh nhân cần phẫu thuật, có thể phải xem xét việc phẫu thuật để điều trị vết thương không lành. Dùng các thuốc kháng sinh toàn thân thích hợp khi bị các biến chứng như nhiễm khuẩn huyết, nhiễm trùng mô mềm, hoặc viêm xương tủy.
+Để đặt lịch khám tại viện, Quý khách vui lòng bấm số HOTLINE hoặc đặt lịch trực tiếp TẠI ĐÂY. Tải và đặt lịch khám tự động trên ứng dụng MyVinmec để quản lý, theo dõi lịch và đặt hẹn mọi lúc mọi nơi ngay trên ứng dụng.
 
-Bệnh viện Đa khoa Quốc tế Vinmec là bệnh viện không chỉ nổi tiếng bởi chuyên môn cao mà còn có đầy đủ các trang thiết bị y tế hiện đại đạt chuẩn. Đặc biệt các quy trình thăm khám và điều trị tại Vinmec đều được thực hiện bởi đội ngũ Y bác sĩ giàu chuyên môn và được đào tạo bài bản sẽ đem lại hiệu quả điều trị bệnh cao.
-
-Để đăng ký khám và điều trị bệnh tại Bệnh viện Đa khoa Quốc tế Vinmec, Quý Khách có thể liên hệ Hệ thống Y tế Vinmec trên toàn quốc, hoặc đăng ký khám trực tuyến TẠI ĐÂY.
+ Phân của bạn "nói" gì về sức khỏe của bạn?
 
 
 
-Bài viết thứ 2 :Hầu hết các vết loét đều lành khi được điều trị, nhưng một số vết loét không bao giờ lành hoàn toàn. Ngoài việc chăm sóc vết loét hiệu quả thì còn cần phải kết hợp với các loại thuốc chống loét tỳ đè. Dưới đây là những thông tin cần thiết cung cấp cho bạn về việc sử dụng thuốc chống loét tỳ đè cho bệnh nhân nằm nhiều.
+Bài viết thứ 2 :Bài viết bởi Thạc sĩ, Bác sĩ Mai Viễn Phương - Khoa Khám bệnh & Nội khoa - Bệnh viện Đa khoa Quốc tế Vinmec Central Park
 
-1. Loét do tỳ đè là gì?
+Són phân được định nghĩa là tình trạng đi ngoài không chủ ý của các chất trong trực tràng (phân rắn hoặc lỏng) qua ống hậu môn và không có khả năng trì hoãn việc di tản cho đến khi thuận tiện về mặt xã hội.
 
-Loét do tỳ đè là một biến chứng phổ biến và nghiêm trọng ở những bệnh nhân nằm liệt hay nằm lâu ngày. Lở loét do nằm nhiều còn được gọi là loét tỳ đè và loét do tư thế nằm, đây là những vết thương ở da và mô bên dưới do áp lực trong thời gian dài trên da.
+Són phân được coi là một rối loạn phổ biến với gánh nặng kinh tế đáng kể, nhưng do sự lúng túng nên nó thường được báo cáo không đầy đủ. són phân ảnh hưởng nghiêm trọng đến chất lượng cuộc sống của bệnh nhân, dẫn đến các bệnh đi kèm hữu cơ và tâm lý. Việc lấy tiền sử chi tiết và thăm khám bởi bác sĩ là bắt buộc để xác định những phàn nàn chính của bệnh nhân với trọng tâm là các yếu tố nguy cơ đối với són phân và liệu són phân thụ động hay thôi thúc có chiếm ưu thế hay không. Hơn nữa, kiểm tra trực tràng ngón tay là tối quan trọng để đánh giá cảm giác hậu môn trực tràng, sự nghỉ ngơi của cơ thắt hậu môn và quan trọng là áp lực bóp.
 
-Các vết loét thường phát triển trên những vùng da bao phủ các vùng xương của cơ thể, chẳng hạn như mắt cá chân, gót chân, hông và xương cụt.
+Để chẩn đoán són phân, các bác sĩ thường sử dụng các phương pháp sau:
 
-Những người có nguy cơ bị loét do tỳ đè là mắc các bệnh lý hạn chế khả năng thay đổi tư thế hoặc khiến họ phải dành phần lớn thời gian trên giường hay ghế.
+1. Đo áp lực hậu môn trực tràng độ phân giải cao HRAM
 
-Biến chứng của loét do nằm lâu:
+Theo hướng dẫn của American College of Gastroenterology, trong những trường hợp bị són phân, nên xét nghiệm với đo áp lực hậu môn trực tràng độ phân giải cao. Đo áp lực hậu môn trực tràng độ phân giải cao là một công cụ chẩn đoán quan trọng để đánh giá chức năng vận động và cảm giác hậu môn trực tràng. Việc sử dụng Đo áp lực hậu môn trực tràng độ phân giải cao là một công cụ chẩn đoán chính cần thiết trong việc đánh giá són phân, vì nó nâng cao hiểu biết về các cơ sở sinh lý bệnh cơ bản của són phân, cho phép đưa ra liệu pháp tối ưu cho từng bệnh nhân cụ thể. Đo áp lực hậu môn trực tràng độ phân giải cao, cung cấp bản ghi động của các cơ vòng hậu môn và áp lực trong hậu môn trực tràng, được coi là công cụ chẩn đoán được thiết lập tốt nhất cho phép đánh giá khách quan một số yếu tố của chức năng hậu môn và trực tràng bao gồm trương lực cơ bản và sự co bóp, sự phối hợp giữa hậu môn và hậu môn, và chức năng phản xạ (chẳng hạn như trào ngược ức chế đường hậu môn) cũng như ngưỡng cảm giác trực tràng, là một yếu tố dự báo quan trọng về phản ứng với huấn luyện phản hồi sinh học.
 
-Chuyển đổi ác tính
-Rối loạn phản xạ tự chủ
-Viêm tủy xương
-Pyarthrosis
-Nhiễm trùng huyết
-Lỗ rò niệu đạo
-Amyloidosis
-Thiếu máu.
-2. Sử dụng thuốc chống loét tỳ đè
+2. Đồng thuận London về quy trình và phân tích áp kế hậu môn trực tràng
 
-2.1. Thuốc sát khuẩn – bôi vùng loét tỳ đè
+Tổ chức nghiên cứu sinh lý hậu môn trực tràng quốc tế được thành lập gần đây đã xuất bản một tài liệu hướng dẫn đồng thuận đề xuất một quy trình chuẩn hóa thực tế để thực hiện và phân tích áp kế hậu môn trực tràng, được đặt tên là Phân loại London. Một số phát hiện đo áp suất có thể liên quan đến són phân như suy giảm trương lực áp lực nghỉ của cơ vòng hậu môn (hạ huyết áp) và suy giảm áp lực bóp (giảm co bóp). Hơn nữa, đo áp lực hậu môn trực tràng độ phân giải cao cho phép đánh giá độ nhạy cảm bất thường của trực tràng cả quá mẫn và quá mẫn, hai tình trạng có thể gây ra són phân ở những cách cư xử khác nhau. Cảm giác trực tràng được đánh giá bằng cách thổi phồng một quả bóng trong trực tràng và ghi lại thể tích quả bóng cần thiết để tạo ra cảm giác đầu tiên, thôi thúc và khó chịu. Dị ứng trực tràng có thể do bệnh lý thần kinh, viêm niêm mạc hoặc xơ hóa và có thể khiến bệnh nhân không nhận biết được sự hiện diện của phân trong trực tràng, dẫn đến tích tụ phân và đại tiện không tự chủ. Quá mẫn trực tràng có thể dẫn đến tiểu tiện không tự chủ và thường gặp ở những bệnh nhân mắc hội chứng ruột kích thích
 
-Về cơ bản để các vết loét hở ngoài da nhanh lành phải đảm bảo ổ loét được sạch sẽ, không nhiễm trùng, viêm. Để đạt được yêu cầu đó, việc cần thiết là sử dụng các dung dịch kháng khuẩn để vệ sinh vết loét.
+Áp kế hậu môn trực tràng có độ phân giải cao cho thấy áp lực hậu môn đang nghỉ ngơi và co bóp bình thường.
 
-Các loại dung dịch kháng khuẩn phải có vai trò tiêu diệt virus, vi khuẩn và nấm. Sau xử lý vết loét được vô khuẩn, khô se và dần co lại. Vì vậy, việc sử dụng các thuốc sát khuẩn bôi loét cần xuyên suốt trong cả quá trình điều trị.
+Nguồn: Hiệp hội Nội soi và Tiêu hóa, Bệnh viện Nazareth, EMMS, Nazareth, Israel.
 
-Các loại dung dịch sát khuẩn bao gồm:
+Áp kế hậu môn trực tràng có độ phân giải cao thể hiện áp lực hậu môn khi nghỉ ngơi thấp (mũi tên đen) và áp lực bóp thấp (mũi tên cam)
 
-Nước oxy già (H2O2): Loại bỏ đa phần các mảnh vụn của mô và mủ để làm sạch vết thương. Bôi một lượng vừa đủ nước oxy già nồng độ 1,5% hoặc 3% lên vết thương. Nên dùng băng gạc để che vết thương, tránh nhiễm trùng.
-Cồn y tế 70-75 độ: Khử trùng, làm sạch vết thương. Bôi một lượng nhất định lên vết loét, nên dùng băng gạc che vết loét lại để tránh nhiễm trùng. Cồn y tế không nên dùng để sát khuẩn trực tiếp vào vết thương hở. Nó sẽ phá hủy cấu trúc hạt và tế bào sợi ở vết thương gây đau, rát, vết loét chậm lành.
-Dung dịch Povidon iod 10%: Povidon iod là phức hợp của iod với polyvinylpyrrolidone. Tác dụng sát khuẩn, diệt khuẩn, nấm, bào tử, động vật đơn bào. Bôi trực tiếp dung dịch sát khuẩn lên vùng da bị tổn thương. Bôi 2 lần/ngày, có thể phủ gạc vô khuẩn lên vết loét để tránh
-Nước muối Natri clorid 0,9%: Rửa vết loét nhỏ nông, loại bỏ chất bẩn và vi khuẩn trên bề mặt. Dùng dung dịch Natri clorid 0,9% để làm sạch các vết loét nhỏ nông, ngày 1-2 lần. Dùng rửa sạch các vết loét ban đầu.
-Thuốc đỏ: Thuốc sát khuẩn dung dịch mercurochrome 1%. Sát trùng các vết thương nhẹ, các vết bỏng nhẹ hay các vết trầy xước trên da. Bôi sát khuẩn vết loét sau khi đã rửa bằng nước muối sinh lý.
-Chlorhexidine: Làm sạch vết loét, diệt vi khuẩn trên các vết loét. Rửa sạch vùng da trước khi bôi Chlorhexidine. Sử dụng bông tăm, gạc thấm, băng, gạc bôi với một lượng vừa phải lên vùng da cần được điều trị. Không dùng Chlorhexidine trên vết thương hở
-Muối bạc: Muối bạc được sử dụng cho người bị liệt có tác dụng kéo dài
-Cồn iod 5%: Cồn iod 5% dùng để sát khuẩn các vết loét; chống một số nấm da. Bôi thuốc lên vùng da để khử khuẩn hoặc vào vùng da tổn thương để tránh nhiễm khuẩn, ngày bôi 2 lần. Không được sử dụng trong sát trùng vết loét hở. Nó chỉ phù hợp để sát trùng ngoài da, ở những vùng da không nhạy cảm.
-Dung dịch sát khuẩn Dizigone: Dizigone là dung dịch sát khuẩn thế hệ mới, diệt mầm bệnh dựa trên công nghệ kháng khuẩn ion. Rửa trực tiếp dung dịch lên vết loét, để nguyên tối thiểu trong 30 giây. Không cần rửa lại bằng nước. Mỗi ngày thực hiện 3-4 lần để đạt hiệu quả tối ưu.
-2.2. Thuốc trị lở loét cho người già
-2.2.1. Kháng sinh
+Nguồn: Hiệp hội Nội soi và Tiêu hóa, Bệnh viện Nazareth, EMMS, Nazareth, Israel.
 
-Ngoài thuốc bôi sát khuẩn, kháng sinh cũng thường xuyên được sử dụng nhằm tối ưu khả năng diệt khuẩn. Kháng sinh điều trị loét tỳ đè được bác sĩ chỉ định trong các trường hợp có nhiễm trùng nặng hoặc bội nhiễm sang các cơ quan, bộ phận khác trong cơ thể.
+3. Hình ảnh học sàn chậu và ống hậu môn
 
-Có 2 con đường đưa kháng sinh vào cơ thể:
+Ở những bệnh nhân không kiểm soát được áp lực hậu môn giảm, đặc biệt khi đang xem xét phẫu thuật, nên đánh giá tính toàn vẹn về mặt giải phẫu của cơ thắt hậu môn, thành trực tràng và vùng cơ hậu môn bằng siêu âm nội soi hoặc MRI. Mặc dù, cả hai xét nghiệm được coi là trùng lặp trong việc xác định các bất thường bao gồm sẹo, khuyết tật, mỏng hoặc teo khu trú rõ rệt, tuy nhiên, mọi xét nghiệm đều có tính duy nhất và khả năng chẩn đoán. Trong khi siêu âm vượt trội hơn trong việc xác định vết rách cơ vòng trong hậu môn, thì teo cơ vòng ngoài hậu môn được xác định nhiều hơn bằng MRI. Ngoài ra, việc phân biệt vết rách và sẹo cơ thắt ngoài hậu môn sẽ tốt hơn với MRI.
 
-Kháng sinh tác dụng toàn thân: thường dùng qua đường uống hoặc đường tiêm truyền tĩnh mạch. Một số thuốc chống loét tì đè phổ biến cho vết loét tỳ đè: Nhóm beta – lactam, nhóm Aminoglycosid, nhóm quinolon
-Kháng sinh tác dụng tại chỗ: Thường dùng thuốc bôi ngoài da có dạng như mỡ, kem, gel... Các thuốc này có thể chứa neomycin, polymyxin hay sulfadiazine bạc...
-2.2.2. Thuốc xịt chống lở loét
+Siêu âm ống hậu môn:
 
-Thuốc xịt chống loét do tì đè Sanyrene có thành phần là 99% Corpitolino 60 / glycerides có độ oxi hóa cao của các acid béo thiết yếu, các acid linoleic ( 60%) và Vitamin E (tocopherol acetate). Giúp phòng và điều trị vết loét lâu lành; vùng da bị ban đỏ do tì đè, cọ xát hoặc bị cắt; da khô và mất nước; da yếu, mỏng manh do điều kiện ẩm ướt và dinh dưỡng kém.
+TRUS hay siêu âm ống hậu môn (EAUS) là một xét nghiệm đơn giản, dung nạp tốt, phổ biến rộng rãi được coi là tiêu chuẩn vàng trong việc khảo sát tính toàn vẹn của cơ thắt hậu môn. Tuy nhiên, độ nhạy và độ chính xác của nó trong việc xác định tổn thương cơ vòng còn được tranh luận và phụ thuộc vào người vận hành. Gold và cộng sự đã báo cáo rằng thỏa thuận giữa máy chủ trong chẩn đoán khuyết tật cơ vòng và đo cơ vòng trong hậu môn bằng siêu âm ống hậu môn là rất tốt, và tốt hơn so với phép đo cơ vòng ngoài hậu môn.
 
-Cách dùng: Một hoặc hai lần xịt vào vùng da bị tì đè có nguy cơ (gót chân, vùng xương cùng – xương ngồi) tùy thuộc vào vị trí của nó. Dùng các đầu ngón tay xoa đều và nhẹ nhàng trong 1 phút để ngấm thuốc
+Các bệnh lý cấu trúc phổ biến ở bệnh nhân bị són phân mà siêu âm ống hậu môn dễ dàng xác định bao gồm cơ vòng trong hậu môn gián đoạn (khiếm khuyết), cơ vòng trong hậu môn teo (được xác định bằng sự mỏng lan tỏa của cơ vòng đến độ dày dưới 1mm, và cơ vòng ngoài hậu môn không liên tục (khiếm khuyết ) hoặc sẹo biểu hiện như mỏng khu trú. Mặt khác, việc xác định chính xác cơ vòng ngoài hậu môn teo là khó khăn với siêu âm ống hậu môn do kém khả năng xác định ranh giới cơ vòng ngoài hậu môn và không có khả năng phân biệt giữa mô cơ bình thường và thâm nhiễm mỡ. Thật vậy, teo cơ cơ vòng ngoài hậu môn được xác định bằng sự giảm lan tỏa khối lượng cơ trên các hình ảnh nối tiếp dưới mức hậu môn trực tràng, đến mức hầu như không thể xác định được cơ. Nguyên nhân hàng đầu của són phân là tổn thương cơ thắt hậu môn bắt nguồn từ việc sinh nở qua đường âm đạo ở phụ nữ, và nó có thể do rách trực tiếp cơ thắt hậu môn hoặc gián tiếp do tổn thương cơ thắt trong
 
-Liều dùng: Dùng 3-4 lần trong 24 giờ, lúc xoay trở bệnh nhân.
+Các cơ vòng hậu môn trong và ngoài bình thường (cơ vòng hậu môn trong và cơ vòng hậu môn ngoài)
 
-2.2.3. Thuốc bôi chống lở loét
+Nguồn: Khoa Tiêu hóa, Trung tâm Y tế Galilee, Nahariya, Israel. EAS : Cơ thắt ngoài hậu môn; IAS: Cơ thắt trong hậu môn.
 
-Thuốc bôi chống lở loét Silvirin: Được bào chế dưới dạng kem của phức hợp sulfadiazine bạc, dùng để bôi lên vết loét tì đè giúp đem lại tác dụng kháng khuẩn tại chỗ.
+Teo cơ thắt trong hậu môn biểu hiện là cơ thắt mỏng.
+Vết rách cơ thắt ngoài hậu môn
 
-Thuốc chống loét tì đè Gel Oatrum Gold: Tác dụng kháng khuẩn, chống viêm, làm lành nhanh tổn thương trên da.
+Nguồn: Khoa Tiêu hóa, Trung tâm Y tế Galilee, Nahariya, Israel. EAS : Cơ thắt ngoài hậu môn; IAS: Cơ thắt trong hậu môn.
 
-Miếng dán chống loét: Miếng dán chống loét cho người già là sản phẩm với công nghệ tiên tiến hỗ trợ cho bệnh nhân chống chảy dịch, vết loét khô và kéo da non nhanh hơn. Miếng dán chống loét sử dụng các ion bạc và than hoạt tính carbonat chống lại nhiễm khuẩn do vi trùng, hút dịch chảy ra từ vết loét nhanh chóng làm khô vết thương chỉ sau 2 lần sử dụng.
+Siêu âm ống hậu môn hai chiều:
 
-2.2.4. Thuốc giảm đau vết loét
+Kỹ thuật này cho phép hình ảnh mặt cắt ngang chỉ trong mặt phẳng trục, vẫn là trụ cột chính của việc kiểm tra cơ vòng; tuy nhiên nó không đạt được các phép đo dọc chính xác cần thiết để lập kế hoạch can thiệp phẫu thuật hoàn chỉnh. Mặt khác, siêu âm ống hậu môn ba chiều cho phép xác định các phép đo chiều dài, độ dày, diện tích và thể tích bằng cách tạo ra một khối lượng ngón tay có thể được nhìn thấy từ bất kỳ mặt phẳng nào và được hiển thị dưới dạng hình ảnh đa phương hoặc cắt lớp, do đó cho phép hình dung khuyết tật chính xác hơn.
 
-Thuốc giảm đau Paracetamol: Loại thuốc giảm đau thông dụng nhất được sử dụng là Paracetamol. Nếu bệnh nhân bị dị ứng với paracetamol, có thể thay thế bằng các thuốc khác cùng nhóm NSAIDs như diclophenac, ibuprofen. Những thuốc này khi đau ở mức độ nhẹ đến trung bình.
+MRI: MRI đắt tiền, không có sẵn, và không được chấp nhận bởi bệnh nhân kỵ khí hậu và không thích hợp ở những bệnh nhân có máy tạo nhịp tim, máy khử rung tim và các thiết bị cấy ghép kim loại khác. Hai phương thức của MRI có sẵn trong thực hành lâm sàng: MRI nội mạc xâm lấn sử dụng cuộn dây nội mạc và dãy pha bên ngoài không xâm lấn. Cả hai phương thức đều có thể so sánh được trong việc xác định các khuyết tật cơ vòng ngoài hậu môn và teo. So với siêu âm ống hậu môn, độ chính xác của MRI nội mạc trong chẩn đoán khuyết tật cơ vòng trong hậu môn thấp hơn. Một số nghiên cứu đã báo cáo rằng siêu âm ống hậu môn và MRI nội mạc tương đương nhau trong việc chẩn đoán chấn thương cơ vòng ngoài hậu môn ; tuy nhiên, MRI nội hậu môn cho phép phân biệt tốt hơn giữa mỡ và cơ và xác định sẹo. Đặc tính này nhấn mạnh khả năng chẩn đoán của siêu âm ống hậu môn trong việc phát hiện tổn thương cấu trúc và mỏng cơ vòng ngoài hậu môn khu trú. Thật thú vị, chỉ có sự thống nhất vừa phải giữa siêu âm ống hậu môn và MRI mảng bên ngoài trong việc chẩn đoán chấn thương sản khoa, đại diện cho nguyên nhân chính của són phân , đã được báo cáo. Gần đây, phương pháp đại tiện cộng hưởng từ đã dần xuất hiện như một phương thức hiện đại thay thế phương pháp đại tiện dựa trên tia X truyền thống.
 
-Thuốc kháng viêm điều trị NSAIDs: Nếu mức độ đau vết loét tăng dần và không cải thiện khi dùng NSAIDs, bệnh nhân sẽ được chỉ định dùng OPIOIDs. Các thuốc nhóm này có hiệu lực giảm đau mạnh nhưng nằm trong nhóm gây nghiện – hướng thần. Vì vậy, việc sử dụng và bảo quản thuốc cần được tuân thủ chặt chẽ.
+3. Chụp quá trình đại tiện bằng cộng hưởng từ
 
-2.2.5. Thuốc kích thích tái tạo da
+Đây là một xét nghiệm không xâm lấn sử dụng MRI để thu được hình ảnh ở các giai đoạn khác nhau của quá trình đại tiện nhằm đánh giá mức độ hoạt động của các cơ vùng chậu và cung cấp những hiểu biết sâu sắc về chức năng trực tràng. Chụp đại tiện cộng hưởng từ có thể cung cấp các rối loạn chức năng quan trọng liên quan đến quá trình đại tiện cũng như các bất thường cấu trúc quan trọng khác nhau liên quan đến són phân và các rối loạn sàn chậu khác. Những bất thường về cấu trúc này bao gồm hậu môn trực tràng, biểu mô ruột, hậu môn trực tràng sa xuống và tầng sinh môn đi xuống. Việc xác định có thể ảnh hưởng đến loại phương pháp điều trị phẫu thuật.
 
-Giúp làm mềm vết loét, ngăn sự co kéo ở vị trí tổn thương, làm giảm cảm giác đau và tạo điều kiện cho vết loét nhanh lành. Nên sử dụng những loại kem dưỡng ẩm có nguồn gốc từ tự nhiên để an toàn với cơ thể.
+4. Điện cơ sinh lý thần kinh của hậu môn trực tràng
 
-Một số loại kem dưỡng ẩm thường dùng là: Vaselin, Lanolin, Vitamin E, Dizigone Nano Bạc.
+Điện cơ đánh giá sinh lý thần kinh của hậu môn trực tràng bao gồm đánh giá sự dẫn truyền của dây thần kinh lưng và tủy sống bằng cách sử dụng EMG kiểm tra cơ vòng. Thử nghiệm này có ý nghĩa đặc biệt khi phẫu thuật đang được xem xét; tuy nhiên tính khả dụng của nó chủ yếu được dành cho mục đích nghiên cứu và ứng dụng lâm sàng của nó gần đây đã giảm ở nhiều quốc gia. Tuy nhiên, việc sử dụng EMG đã được ủng hộ ở những bệnh nhân có các triệu chứng khó chịu, nghi ngờ bắt nguồn từ sự yếu cơ vòng do thần kinh, đặc biệt khi nó được cho là do tổn thương rễ xương cùng, người ta ủng hộ việc đánh giá cảm giác trực tràng và sự tuân thủ bằng kim EMG của cơ thắt hậu môn.
 
-Trên đây là một số loại thuốc chống loét tỳ đè cho bệnh nhân nằm nhiều. Hy vọng bài viết đã cung cấp thông tin hữu ích cho bạn đọc. Lưu ý, trước khi sử dụng bất kỳ một loại thuốc nào, người thân bệnh nhân cần tham khảo ý kiến bác sĩ, dược sĩ.
+Phần kết luận
+
+Đo áp lực hậu môn trực tràng độ phân giải cao là một phương thức chẩn đoán ban đầu quan trọng để bắt đầu, vì nó có thể cung cấp thông tin quan trọng về các chức năng của cơ vòng hậu môn và có thể đánh giá khả năng cảm nhận trực tràng bằng cách sử dụng bóng giãn nở trong trực tràng. Sự toàn vẹn về giải phẫu của cơ vòng hậu môn, thành trực tràng và vùng cơ hậu môn trực tràng nên được đánh giá bằng siêu âm ống hậu môn hoặc MRI.
+
+Mặc dù, cả hai xét nghiệm đều được coi là chồng chéo trong việc xác định các bất thường bao gồm sẹo, khuyết tật, teo hoặc mỏng khu trú rõ rệt, mọi xét nghiệm đều có tính duy nhất và khả năng chẩn đoán riêng. Trong khi siêu âm ống hậu môn vượt trội hơn trong việc xác định vết rách cơ thắt trong hậu môn, thì bệnh teo cơ thắt ngoài hậu môn được xác định rõ hơn nhờ MRI. Ngoài ra, việc phân biệt vết rách và sẹo cơ thắt ngoài hậu môn sẽ tốt hơn với MRI. Vai trò của EMG trong việc đánh giá són phân cần được khám phá. Cuối cùng, cách tiếp cận được khuyến nghị này sẽ hỗ trợ các bác sĩ lâm sàng trong việc quản lý từng bước bệnh nhân són phân.
 
 Để đặt lịch khám tại viện, Quý khách vui lòng bấm số HOTLINE hoặc đặt lịch trực tiếp TẠI ĐÂY. Tải và đặt lịch khám tự động trên ứng dụng MyVinmec để quản lý, theo dõi lịch và đặt hẹn mọi lúc mọi nơi ngay trên ứng dụng.
 
 
 
-Bài viết thứ 3 :Bài viết bởi Bác sĩ chuyên khoa I Nguyễn Công Hòa - Bác sĩ Hồi sức tích cực - Khoa Hồi sức tích cực - Bệnh viện Đa khoa Quốc tế Vinmec Times City
+Bài viết thứ 3 :Ước tính có đến 50% bệnh nhân xơ gan có biến chứng giãn tĩnh mạch thực quản. Tình trạng xơ gan càng nghiêm trọng thì tỷ lệ bị giãn tĩnh mạch thực quản càng cao. Triệu chứng vỡ giãn tĩnh mạch thường thấy là xuất huyết tiêu hóa, ói ra máu, đi ngoài ra phân đen hoặc đỏ bầm, trụy tim mạch...
 
-Loét do tỳ đè ở những bệnh nhân phải nằm bất động lâu ngày rất dễ xuất hiện nếu không biết cách chăm sóc bệnh nhân đúng cách. Thực tế, việc điều trị tình trạng này không phải là một việc làm dễ dàng bởi hầu hết các nguyên gây ra bệnh đều do ảnh hưởng từ một số cơ quan trong cơ thể.
+1. Giãn tĩnh mạch thực quản là gì?
 
-1.Loét do tỳ đè là gì?
+Chảy máu do xơ giãn tĩnh mạch thực quản là một trong những biến chứng nghiêm trọng của xơ gan. Thực quản là một ống nối từ họng đến dạ dày. Giãn tĩnh mạch thực quản là khi các tĩnh mạch ở đoạn cuối thực quản phình chướng và dưới áp lực nhất định vỡ ra gây xuất huyết tiêu hóa, người bệnh có thể tử vong nếu không được xử lý kịp thời.
 
-Loét do tỳ đè là tổn thương cục bộ trên da và mô bên dưới, thường xảy ra ở phần cơ thể có xương nổi lên. Trong quá trình người bệnh nằm bất động lâu do áp lực thường xuyên lên vị trí tỳ đè này trong thời gian dài và kết hợp với tình trạng da bị ẩm ướt, trầy xước hình thành nên các vết loét. Các vị trí phổ biến nhất là da ở phía xương cùng cụt, gót chân và hông, mặc dù các vị trí khác có thể bị ảnh hưởng, chẳng hạn như khuỷu tay, đầu gối, mắt cá chân, lưng vai hoặc vùng chẩm.
+2. Phương pháp điều trị giãn tĩnh mạch thực quản
 
-2.Các phân độ loét do tỳ đè qua hình ảnh
-Phân độ loét do tỳ đè qua hình ảnh
-Độ I: Da có màu đỏ, cấu trúc da còn nguyên vẹn, trông khác
-Độ II: Mất da một phần đến lớp biểu bì, hoặc sâu hơn đến lớp hạ bì, biểu hiện như một vết mài mòn, vết phồng.
-Độ 3: Tổn thương sâu hết qua da, đến mô dưới da, qua tổ chức dưới da đến cơ
-Độ IV: Tổn thương qua da, tổ chức dưới da, cơ vào đến xương
+Có 2 cách điều trị phổ biến:
 
-Các biến chứng của loét tỳ đè có liên quan đến tỷ lệ mắc và tỷ lệ tử vong đáng kể. Hầu hết các biến chứng xuất hiện với loét độ III và IV và các biến chứng này bao gồm viêm mô tế bào, viêm xương khớp, nhiễm trùng khớp, viêm khớp xương mủ cấp và uốn ván. Uốn ván làm phức tạp thêm các loét tỳ đè vì thế nên dự phòng miễn dịch chống uốn ván bằng kháng huyết thanh và tiêm ngừa vắc - xin uốn ván.
+Dùng thuốc điều trị
+Làm xơ hóa tĩnh mạch qua nội soi.
 
-3.Điều trị bệnh nhân loét do tỳ đè
+Tiêm xơ tĩnh mạch thực quản qua nội soi là kỹ thuật tiêm chất gây xơ hóa vào tĩnh mạch thực quản để cầm máu tạm thời hoặc phòng ngừa biến chứng vỡ tĩnh mạch thực quản.
 
-Bởi vì tỷ lệ mắc và tử vong rất lớn, đồng thời có thể gây ra gánh nặng về kinh tế gây ra do phải điều trị vấn đề này, nên phòng ngừa loét do tỳ đè là mục đích chính. Xác định người bệnh có nguy cơ là bước đầu tiên trong lựa chọn các biện pháp đề phòng.
+2.1 Trường hợp chỉ định
 
-3.1. Điều trị dự phòng
+Trường hợp cấp cứu: Khi người bệnh đang bị xuất huyết tiêu hóa do giãn tĩnh mạch thực quản hoặc thực hiện sau một số phương pháp nội khoa khác (ép chỗ vỡ tĩnh mạch bằng các loại ống thông khác nhau, truyền thuốc giảm áp lực tĩnh mạch cửa).
+Tiêm xơ dự phòng tái phát: Áp dụng cho bệnh nhân đã có tiền sử xuất huyết tiêu hóa do giãn tĩnh mạch thực quản.
+Xuất huyết tiêu hóa do giãn tĩnh mạch thực quản cần được tiêm xơ
+2.2 Trường hợp chống chỉ định
 
-Điều trị dự phòng bằng cách chăm sóc da, dùng dụng cụ hỗ trợ, chăm sóc bề mặt. Cụ thể:
+Chống chỉ định tương đối: Bệnh nhân mới phẫu thuật tiêu hóa 1 tháng, bị tắc ruột. Bệnh nhân mắc rối loạn đông máu, giảm tiểu cầu nghiêm trọng.
+Chống chỉ định tuyệt đối: Bệnh nhân nghi nhồi máu cơ tim, trụy tim mạch, suy hô hấp, hội chứng mạch vành cấp, phình tách động mạch chủ, rối loạn nhịp tim phức tạp, tăng huyết áp..v...v. Các bệnh nhân bị chấn thương đốt sống cổ, bị thủng ruột, thủng rò thực quản, viêm phúc mạc. Bệnh nhân bị đồng thời giãn tĩnh mạch ở phình vị hoặc ở thân vị.
+2.3 Chuẩn bị trước thủ thuật
 
-Kiểm tra và làm sạch da có hệ thống mỗi ngày
-Kiểm soát các yếu tố làm khô da quá mức như độ ẩm mồ hôi, thoát nước.
-Tránh xoa bóp trên vùng xương nổi
-Giảm thiểu ma sát và cắt
+Để thực hiện thủ thuật tiêm xơ giãn tĩnh mạch thực quản cần chuẩn bị:
 
-Ngoài ra, sử dụng các phương pháp khác như:
+Ekip thực hiện: Gồm 1 bác sĩ thực hiện và 2 điều dưỡng, 1 bác sĩ và 3 điều dưỡng, 1 bác sĩ và 2 kỹ thuật viên gây mê.
+Phương tiện sử dụng: Một hệ thống nội soi tiêu hóa kèm kim tiêm xơ qua nội soi, bơm tiêm 20ml, bơm tiêm 50ml, một máy thở và phương tiện gây mê hồi sức, thuốc tiền mê (Midazolam, Fentanyl) sử dụng trong trường hợp người bệnh kích thích, các chất gây xơ tĩnh mạch: Polidocanol 1% (phổ biến), Leat d’ethanolamine 5%, Morrhuate de sodium, Chlorhydrate de quinin-ure, Tetradecyl sulfat 1,5%, cồn tuyệt đối.
+Người bệnh cần chuẩn bị: Thăm khám lâm sàng trước thủ thuật. Nhịn ăn tối thiểu 6 giờ. Đặt ống thông hút rửa dịch dạ dày (nếu cần). Ký giấy xác nhận thực hiện thủ thuật.
 
-Thay đổi tư thế bệnh nhân 2 giờ một lần.
-Tránh đầu giường thấp quá hoặc cao quá.
-Sử dụng các dụng cụ để giảm tỳ đè.
-Sử dụng đệm hơi, máy làm ấm và khô da.
-3.2. Điều trị chung
-Điều trị tốt bệnh lý nền
-Xem xét giải quyết đại tiểu tiện không tự chủ.
-Cải thiện tình trạng dinh dưỡng của bệnh nhân.
-Bù máu, Albumin, điện giải.
-Kiểm soát đường máu
-Kiểm soát đau.
-Chăm sóc sức khỏe tâm thần.
-Kiểm soát nhiễm trùng tại chỗ và toàn thân.
-4.Các thăm dò cận lâm sàng tìm nguyên nhân
+Trường hợp cấp cứu, bệnh nhân phải được hồi sức tích cực, đặt đường truyền tĩnh mạch để truyền máu, truyền dịch giúp bù thể tích tuần hoàn, thở oxy kính, lắp monitor theo dõi trước khi làm nội soi. Người bị suy hô hấp, rối loạn ý thức phải được đặt nội khí quản, kiểm soát tình trạng hô hấp trước khi làm thủ thuật.
 
-Các phương pháp thăm dò tìm nguyên nhân như sau:
+2.4 Quy trình tiêm xơ tĩnh mạch thực quản
 
-Sinh thiết cho nuôi cấy mô cơ, xương
-Có thể cần thuốc kháng sinh toàn thân
-Các thăm dò siêu âm mô, Xquang, CT, MRI
-Xem xét có viêm xương tủy.
-Tác nhân viêm nhiễm.
-4.1. Các phương pháp chăm sóc
-Các phương pháp chăm sóc
+Thời gian tiến hành: Khoảng 60-90 phút. Các bước tiến hành tiêm xơ tĩnh mạch thực quản bao gồm:
 
-4.2. Các sản phẩm chăm sóc vết loét
+Bước 1: Xác định vị trí tiêm
 
-Các sản phẩm chăm sóc bệnh nhân loét do tỳ đè như sau:
+Dùng công cụ nội soi đánh giá mức độ giãn tĩnh mạch thực quản, tìm các dấu hiệu vỡ cửa tĩnh mạch, tổn thương phối hợp gây chảy máu.
+Xác định vị trí tiêm là các búi tĩnh mạch cách tâm vị vài mm, vòng theo chu vi thực quản. Sau đó ước lược tiêm cao dần lên thực quản. Thường ưu tiên tiêm vào các búi tĩnh mạch đang chảy máu hoặc có nguy cơ chảy máu.
 
-Màng film bao vết thương: độ I, bảo vệ khỏi ma sát
-Bọt xốp thấm nước: giai đoạn II, III
-3M Tegaderm Hydrocolloid Dressing: giai đoạn II, III
-Gạc lưới cho độ II, III.
-Calcium Alginate
-Contraindicated
-Hydrogel, amorphous: stages II, III, IV; must combine with gauze dressing
-Contraindicated
-Hydrogel, sheet
-Contraindicated
-Gauze packing
+Bước 2: Xác định kỹ thuật tiêm
 
-Phương pháp phẫu thuật loét do tỳ đè có thể được sử dụng cho loét độ III và IV làm sạch khâu da, ghép da, chuyển vạt da...
+Sau khi xác định vị trí tiêm, đẩy vỏ kim tiêm xơ ra khỏi kênh hoạt động của máy và cố định vào vị trí đó. Đẩy kim tiêm xơ ra khỏi vỏ và bơm chất gây xơ vào. Phụ tá thủ thuật soi rút kim tụt vào trong vỏ của kim và kéo vỏ khoảng 2cm về phía máy nội soi, trong khi đó người soi quan sát và tìm kiếm các vị trí cần tiêm khác rồi di chuyển kim tiêm xơ cố định vào các vị trí này.
 
-Bệnh viện Đa khoa Quốc tế Vinmec là địa chỉ thăm khám, điều trị và phòng ngừa các bệnh lý. Khi thực hiện quy trình thăm khám tại Vinmec, Quý khách hàng sẽ được đón tiếp và sử dụng cơ sở vật chất, hệ thống máy móc hiện đại đi kèm với các dịch vụ y tế hoàn hảo dưới sự chỉ dẫn, tư vấn của các bác sĩ giỏi, được đào tạo bài bản ở cả trong và ngoài nước.
+Có 3 phương pháp tiêm:
+
+Tiêm trong lòng tĩnh mạch: Mỗi mũi tiêm từ 2-10ml, trung bình 5ml. Mỗi lần tiêm từ 20 - 60ml.
+Tiêm dưới niêm mạc cạnh búi giãn tĩnh mạch: Mỗi mũi tiêm từ 0,5-3ml, mỗi lần tiêm 15-30ml.
+Tiêm hỗn hợp: Kết hợp 2 cách tiêm ở trên. Tiêm vào dưới niêm mạc cạnh hai bên thành tĩnh mạch trước rồi sau đó tiêm vào trong lòng tĩnh mạch.
+
+Bước 3: Theo dõi sau thủ thuật
+
+Lưu ý người bệnh tiến hành thủ thuật trong tình trạng cấp cứu thường có nguy cơ rối loạn chức năng hô hấp, tuần hoàn, luôn phải theo dõi tình trạng người bệnh trong suốt quá trình làm thủ thuật.
+
+Sau thủ thuật tiêm xơ, bệnh nhân cần nằm theo dõi 24 giờ và đánh giá các dấu hiệu:
+
+Đánh giá biểu hiện toàn trạng: Tim mạch, hô hấp, tri giác, tình trạng xuất huyết tiêu hóa (đau bụng, đi ngoài ra máu, nôn máu, chướng bụng...), nuốt khó, đau ngực.
+Theo dõi các biến chứng thường thấy của nội soi tiêu hóa, đặc biệt trường hợp thủng ống tiêu hóa.
+Tràn khí màng phổi là tai biến sau thủ thuật
+2.5 Tai biến sau thủ thuật và cách xử lý
+
+Các tai biến sau thủ thuật tiêm xơ giãn tĩnh mạch thực quản bao gồm:
+
+Chảy máu tại chỗ tiêm: Dấu hiệu bình thường, máu chảy ít và sẽ khỏi khi chèn ép thực quản bằng ống soi.
+Xuất huyết tiêu hóa: Đưa máy nội soi vào và hút xẹp hơi dạ dày. Rút máy nội soi sau 15 phút, hội chẩn ngoại và hồi sức cấp cứu nếu tình trạng diễn biến nặng.
+Đau sau xương ức ngực, nuốt khó, nuốt đau: Thường tự hết sau 72 giờ, khuyến khích bệnh nhân thực hiện chế độ ăn lỏng kết hợp dùng thuốc giảm đau.
+Thủng thực quản: do hoại tử xuyên thành, gây áp xe và rò thực quản, hướng đến điều trị ngoại khoa, dùng thuốc kháng sinh, dinh dưỡng tĩnh mạch.
+Tràn dịch màng phổi: Thường số lượng dịch tràn ít, sẽ tự khỏi theo thời gian.
+Loét thực quản: Chỉ định thuốc chống bài tiết Axit và Sucralfat.
+Hẹp thực quản:Trường hợp bị hẹp nhiều cần nong thực quản.
+Sốt do nhiễm khuẩn huyết: Chỉ định bệnh nhân dùng kháng sinh.
+Tử vong: Hiếm gặp (xác suất 0 - 10%).
+
+Bệnh viện Đa khoa Quốc tế Vinmec với hệ thống cơ sở vật chất, trang thiết bị y tế hiện đại cùng đội ngũ chuyên gia, bác sĩ nhiều năm kinh nghiệm trong khám điều trị bệnh, người bệnh hoàn toàn có thể yên tâm thăm khám và điều trị tại Bệnh viện.
+
+Để đăng ký khám và điều trị tại Bệnh viện Đa khoa Quốc tế Vinmec, Quý Khách có thể liên hệ Hệ thống Y tế Vinmec trên toàn quốc, hoặc đăng ký khám trực tuyến TẠI ĐÂY.
+
+
+
+Bài viết thứ 4 :Bài viết bởi ThS. Bác sĩ Tạ Quế Phương - Khoa Nội Tiêu hóa – Nội soi, Bệnh viện Đa khoa Quốc tế Vinmec Times City.
+
+Phân có máu là là tình trạng đi ngoài ra máu, biểu hiện của máu có thể là: trên giấy vệ sinh sau khi lau, trong toilet sau khi bạn đi vệ sinh, trên bề mặt hoặc lẫn vào phân.... Trong một số trường hợp, phân có máu sẽ có màu đen trông giống như bã cà phê hơn là có màu đỏ của máu. Phân trông giống như nhựa đường thường do chảy máu ở phần cao của đường tiêu hóa.
+
+1.Nguyên nhân nào gây ra phân có máu?
+
+Hai nguyên nhân phổ biến nhất thường không nghiêm trọng:
+
+● Bệnh trĩ
+
+● Nứt kẽ hậu môn
+
+Đôi khi, phân có máu rất nghiêm trọng. Chúng có thể là dấu hiệu của ung thư hoặc các vấn đề khác trong hệ tiêu hóa.
+
+2.Theo dõi những triệu chứng khác kèm theo?
+Đau bụng,đau ở hậu môn có thể là những triệu chứng kèm theo của bệnh
+
+Những triệu chứng này có thể cho thấy các nguyên nhân và mức độ nghiêm trọng:
+
+● Ngứa hoặc đau ở hậu môn
+
+● Cảm giác đau như xé hoặc rát khi đại tiện
+
+● Sốt, sụt cân và đổ mồ hôi nhiều vào ban đêm
+
+● Bệnh tiêu chảy
+
+● Cảm giác muốn đại tiện, nhưng không thể đi được
+
+● Đau bụng
+
+● Đại tiện có màu đen hoặc đỏ sẫm
+
+● Thay đổi thói quen đại tiện, và sự thay đổi phân cứng hay mềm
+
+● Chảy máu diễn ra trong một thời gian dài hoặc tái phát nhiều lần
+
+3.Tôi có nên tới khám bác sĩ khi có đi ngoài ra máu?
+
+Bạn nên đến gặp bác sĩ nếu bạn đi ngoài ra máu. Phần lớn các trường hợp là không nghiêm trọng.
+
+4.Những xét nghiệm cần làm là gì?
+Nội soi đại tràng sigma để tìm nguyên nhân gây ra phân có máu
+
+Bác sĩ sẽ quyết định nên làm xét nghiệm nào dựa trên tuổi tác, các triệu chứng khác và tình trạng của từng người bệnh.
+
+Dưới đây là các xét nghiệm phổ biến nhất mà bác sĩ sử dụng để tìm nguyên nhân gây ra phân có máu:
+
+● Thăm khám trực tràng: Quan sát bên ngoài hậu môn sau đó dùng ngón tay để thăm khám bên trong ống hậu môn và trực tràng.
+
+● Nội soi ống hậu môn: Dùng một ống nhỏ đặt vào hậu môn của bạn. Ống đi một vài cm vào trực tràng, giúp bác sĩ có thể nhìn thấy bên trong ống hậu môn.
+
+● Nội soi đại tràng sigma hoặc nội soi đại tràng: Dùng một ống nội soi mềm đi qua hậu môn vào trực tràng hoặc có thể đi lên hết đại tràng. Ống có gắn một camera có thể quan sát bên trong đại tràng của bạn. Trong quá trình nội soi, bác sĩ cũng có thể lấy mẫu mô để làm xét nghiệm giải phẫu bệnh nếu phát hiện có tổn thương bất thường: như viêm , loét, polyp hay u...
+
+5.Làm thế nào để điều trị phân có máu?
+
+Điều trị tùy thuộc vào nguyên nhân gây ra phân có máu. Trong một số trường hợp các phương pháp điều trị có thể bao gồm:
+
+● Thuốc bổ sung chất xơ và thuốc làm cho phân mềm
+
+● Ngâm hậu môn trong nước ấm vài lần một ngày, khoảng 15 phút
+
+● Dùng thuốc bôi vào bên trong hậu môn. Chúng giúp giảm đau, ngứa và sưng tấy
+
+● Các loại thuốc điều trị cho các bệnh về hệ tiêu hóa
+
+6.Đại tiện ra máu có phòng được không?
+Nếu bạn bị trĩ hãy uống nhiều nước và ăn nhiều chất xơ làm giảm nguy cơ đi phân có máu trở lại
+
+Nếu bạn bị trĩ, bạn có thể giảm nguy cơ đi phân có máu trở lại bằng cách uống nhiều nước và ăn nhiều chất xơ, tránh ăn các đồ cay nóng, bia rượu. Chất xơ phổ biến trong trái cây, rau và ngũ cốc ăn sáng. Bạn cũng cần ngăn ngừa táo bón.
+
+7.Nếu trẻ em đi phân có máu thì sao?
+
+Ở trẻ em và trẻ sơ sinh, phân có máu có thể là triệu chứng của:
+
+● Chảy máu ở hậu môn (nứt hậu môn) khi đại tiện nhiều hoặc khó.
+
+● Tình trạng khó tiêu hóa sữa hoặc đậu nành.
+
+● Nhiễm virus hoặc vi khuẩn hoặc ngộ độc thực phẩm.
+
+● Các bệnh lý như lồng ruột, có khối u đường tiêu hóa.
+
+● Thực phẩm và thuốc trông giống như máu nhưng không phải: thuốc sắt, bismuth, socola...
+
+Nếu bạn nhận thấy máu trong tã hoặc phân của trẻ, hãy đưa trẻ đến gặp bác sĩ.
+
+Bệnh viện Đa khoa Quốc tế Vinmec là một trong những bệnh viện không những đảm bảo chất lượng chuyên môn với đội ngũ y bác sĩ giàu kinh nghiệm, hệ thống trang thiết bị công nghệ hiện đại. Bệnh viện cung cấp dịch vụ khám, tư vấn và chữa bệnh toàn diện, chuyên nghiệp, không gian khám chữa bệnh văn minh, lịch sự, an toàn và tiệt trùng tối đa. Khách hàng khi chọn thực hiện các xét nghiệm tại đây có thể hoàn toàn yên tâm về độ chính xác của kết quả xét nghiệm.
 
 Để đặt lịch khám tại viện, Quý khách vui lòng bấm số HOTLINE hoặc đặt lịch trực tiếp TẠI ĐÂY. Tải và đặt lịch khám tự động trên ứng dụng MyVinmec để quản lý, theo dõi lịch và đặt hẹn mọi lúc mọi nơi ngay trên ứng dụng.
 
-
-
-Bài viết thứ 4 :Theo y học cổ truyền, viêm cầu thận cấp là bệnh được miêu tả trong phạm vi chứng phù thũng (thể dương thuỷ) do cảm nhiễm phải phong tà, thuỷ thấp, thấp nhiệt làm phế khí không thông điều hoà thuỷ đạo, tỳ không vận hoá thuỷ thấp, thận không khó hoá bàng quang gây thuỷ dịch bị ứ lại sinh ra chứng phù thũng. Tùy thuộc vào thể bệnh mà có thể chữa viêm cầu thận bằng thuốc nam với các bài thuốc khác nhau.
-
-1. Những cây thuốc nam chữa viêm cầu thận
-
-Một số cây thuốc nam chữa viêm cầu thận được dùng trong dân gian gồm có:
-
-Rau dừa nước:
-
-Là loại cây dại, thân mềm mọc hoang hoá có tác dụng điều trị bệnh về chức năng thận như viêm tiết niệu, tiểu dưỡng chấp, tiểu ra máu
-Rau dừa nước khô thường được rửa sạch, sắc đặc với nước, chia làm nhiều lần uống trong ngày. Sử dụng trong 10-15 ngày để đạt được hiệu quả mong muốn
-
-Cây bòn bọt:
-
-Là cây thân gỗ nhỏ, một trong số ít những vị thuốc với công dụng điều trị bệnh về chức năng thận như phù thận, suy tim, viêm cầu thận,...
-Cây thường được lấy thân, lá ngọn phơi khô, rửa sạch, sắc với nước chia làm 3 lần uống trong ngày. Quá trình sử dụng thuốc có thể kết hợp uống thêm cây dừa nước, râu ngô để mát và lợi tiểu tốt hơn
-
-Quả đu đủ xanh và trái dừa tươi:
-
-Cách làm thuốc đơn giản là lấy thịt trái đu đủ xanh bỏ vào trong lòng trái dừa tươi rồi đun chín ăn hàng ngày.
-Thuốc có tác dụng điều trị viêm cầu thận hiệu quả
-2. Trị viêm cầu thận cấp do phong tà (phong thuỷ)
-
-Các dấu hiệu của bệnh viêm cầu thận cấp do lạnh, viêm nhiễm gồm: Người bệnh có phù mặt và nửa người trên, sau đó phù toàn thân kèm theo gai sốt, rêu lưỡi trắng dày, tiểu tiện ít, phù mạch. Phương pháp chữa là tuyên phế phát hãn, lợi niệu. Có 2 bài thuốc thường dùng:
-
-Bài 1: lá tía tô, hành tăm, cát căn, mỗi vị 12g; cam thảo đất, bông mã đề mỗi vị 20g, lá tre 8g, lá chanh 10g, gừng tươi 2g, sắc uống ngày 1 thang
-Bài 2: việt tỳ thang gia giảm: ma hoàng, bạch truật, đại táo mỗi vị 12g, gừng, cam thảo, quế chi, mỗi vị 6g, mộc thông 8g, sa tiền 16g, thạch cao 20g sắc uống ngày 1 thang
-Kết hợp châm cứu các huyệt: ngoại quan, liệt khuyết, âm lăng tuyền, khí hải, phục lưu, túc tam lý, hợp cốc
-3. Viêm cầu thận do thuỷ thấp
-
-Dấu hiệu của bệnh nhân viêm cầu thận do thủy thấp gồm: Người bệnh bị phù toàn thân, đi tiểu ít, sốt nhẹ, rêu lưỡi trắng dày, mạch trầm hoãn hoặc đới sắc. Phương pháp chữa thông thường là thông dương lợi thấp (ôn thông hoá khí, kiện tỳ trừ thấp lợi niệu. Các bài thuốc thường sử dụng gồm:
-
-Bài 1: Vỏ quýt, quế chi, bỏ rễ dâu, vỏ cau khô, mỗi vị 8g; ngũ gia bì, vỏ gừng, mỗi vị 6g; bồ công anh, kim ngân mỗi vị 20g; mã đề 12g. Sắc uống ngày 1 thang
-Bài 2: Ngũ linh tán: bạch truật, phục linh, trạch tả mỗi vị 12gp; trư linh, quế chi mỗi vị 8g; sắc uống ngày 1 thang
-Kết hợp châm cứu (châm tả) các huyệt như ở phần viêm cầu thận do phong tả
-4. Viêm cầu thận cấp do thấp nhiệt
-
-Tình trạng viêm cầu thận này do mụn nhọt gây dị ứng, nhiễm khuẩn. Người bệnh phù toàn thân, khát nước nhiều, nước tiểu đỏ, ít, da bị viêm nhiễm, rêu lưỡi vàng, bụng đầy tức, khó thở... Phương pháp chữa là thanh nhiệt giải độc trừ thấp, nếu phù nặng phải trục thuỷ. Các bài thuốc thường dùng gồm:
-
-Bài 1: thổ phục linh, rễ cỏ tranh, cỏ mần trầu, lá cối xanh, mỗi vị 20g; mã đề 30g, sắc uống ngày 1 thang
-Bài 2: Đạo xích tán gia giảm: mộc thông, hoàng bá, hoàng cầm, mỗi vị 12g; bồ công anh, rễ cỏ tranh, mỗi vị 20g; lá tre 16g; cam thảo 4g. Tất cả tán bột làm hoàn, ngày uống 4-8g
-Bài 3: đình lịch tử 10g; đại hồi, quế chi, mỗi vị 4g; diêm tiêu 2g; hắc sửu 6g. Tất cả tán bột làm hoàn, ngày uống 4-8g
-Bài 4: châu sa tán cùng gia giảm: cam toại, nguyên hoa, đại kích, trần bì, tân lang, mỗi vị 6g; mộc hương, thanh bì, mỗi vị 10g; khinh phấn 4g. Tất cả tán bột, ngày uống 4-6g
-Để tăng hiệu quả điều trị, kết hợp châm cứu các huyệt: thuỷ phân, khúc trì, hợp cốc, tam tiêu du, âm lăng tuyền, phục lưu
-5. Một số lưu ý với bệnh nhân viêm cầu thận
-
-Cần tuân thủ nghiêm ngặt quá trình ăn kiêng
-Không nên ăn các loại thịt nướng, thịt hun khói
-Nên uống đủ nước và lưu ý cần sử dụng nguồn nước sạch, không dùng nguồn nước kém chất lượng vì nước bẩn gây hại rất lớn cho thận
-Không uống nước ngọt, nước tăng lực, đồ uống có ga, đồ uống có cồn, cà phê vì hại cho bệnh
-Vận động nhẹ để khí huyết lưu thông, cải thiện sức khỏe
-Khi có dấu hiệu bất thường cần đi kiểm tra và xét nghiệm lại. Định kỳ 1 tháng nên đi xét nghiệm máu và nước tiểu để biết được tiến triển của bệnh.
-
-Để đặt lịch khám tại viện, Quý khách vui lòng bấm số HOTLINE hoặc đặt lịch trực tiếp TẠI ĐÂY. Tải và đặt lịch khám tự động trên ứng dụng MyVinmec để quản lý, theo dõi lịch và đặt hẹn mọi lúc mọi nơi ngay trên ứng dụng.
+Bài viết tham khảo nguồn: uptodate.com
 Với các tri thức bổ sung trên, kết hợp với kiến thức chuyên môn của bạn để có thể đưa ra câu trả lời BẰNG TIẾNG VIỆT cho bệnh nhân.
 
 ####################################################################################
