@@ -13,6 +13,7 @@ def custom_replace(s: str) :
                 res += ' '
     return res
 
+out = 0
 for fn in files_name :
     file_path = folder_path + fn
     synomyms = []
@@ -37,7 +38,9 @@ for fn in files_name :
                     s = tp[0] + ', ' + tp[1]
                     synomyms.append(s)
     res = '\n'.join(synomyms)
-    with open('output.txt', 'w', encoding='utf-8') as file:
+    out_file = output_name[out]
+    out += 1
+    with open(file=out_file, mode='w', encoding='utf-8') as file:
         file.write(res)
 print(synomyms)
 print(error_line)
