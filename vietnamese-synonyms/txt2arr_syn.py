@@ -7,7 +7,7 @@ def txt2arr(file_path: str) :
             new_l = l.split("\n")
             syn_arr.append(new_l[0])
 
-    #print(syn_arr)
+    print(syn_arr)
     return syn_arr
 
 #txt2arr('./out_n.txt')

@@ -25,7 +25,7 @@ def makeQuery(q: str) :
 
 def retrieve(q: str) :
     query = makeQuery(q)
-    response = client.search(index="vietnamese_vinmec_doc", body=query)
+    response = client.search(index="vinmec_with_synonyms", body=query)
     hits = response['hits']['hits']
     contexts = []
     

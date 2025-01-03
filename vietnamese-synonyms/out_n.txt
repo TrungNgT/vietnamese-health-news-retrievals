@@ -18,7 +18,6 @@ tàn dư, tàn tích
 nam, trai
 hạn, vận hạn
 bồ bịch, tình nhân
-mẹ, u
 mộ, mả
 ven, vệ
 thân xác, thể xác
@@ -28,7 +27,7 @@ chắn, barie
 thi thể, thây
 mầm, mống
 tha ma, nghĩa trang
-nhà giam, nhà đá
+nhà giam, nhà đá, nhà tù, tù
 tã, tã lót
 đạo lí, đạo nghĩa
 đảo, cù lao
@@ -90,7 +89,7 @@ nhân gian, trần gian
 danh tánh, danh tính
 tí ti, tí chút
 dịp, thời cơ
-bè đảng, bè phái
+bè đảng, bè phái, đảng phái, phe phái
 tí ti, tí teo
 kỉ, kỷ
 tù, phạm nhân
@@ -104,10 +103,9 @@ mĩ thuật, mỹ thuật
 nhất nguyên luận, thuyết nhất nguyên
 chung cư, cư xá
 kìm, kềm
-tội phạm, tội nhân
+tội phạm, tội nhân, phạm nhân, đồng phạm, đồng bọn
 mức, ngữ
 cơm cháo, trò trống
-phạm nhân, tội nhân
 tộc người, sắc tộc
 nhà giam, ngục tù
 cõi tục, trần thế

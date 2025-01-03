@@ -12,11 +12,13 @@ from txt2arr_syn import txt2arr
 
 from Client import client
 
-indexName = "try_999_with_noun_syn"
+indexName = "vinmec_with_synonyms"
 # cannot create existed index. 
 # Please change the indexName for testing!
 
 synlist = txt2arr("../vietnamese-synonyms/out_n.txt")
+synlist.extend(txt2arr("../vietnamese-synonyms/out_v.txt"))
+synlist.extend(txt2arr("../vietnamese-synonyms/out_a.txt"))
 
 setting = {
     'number_of_shards': 1,
@@ -25,11 +27,11 @@ setting = {
             'my_vi_analyzer': {
                 'type': 'custom',
                 'tokenizer': 'vi_tokenizer',
-                'filter': ['lowercase', 'noun_synonyms']
+                'filter': ['lowercase', 'vn_synonyms']
             }
         },
         'filter': {
-            'noun_synonyms': {
+            'vn_synonyms': {
                 'type': 'synonym',
                 'synonyms': synlist
             }

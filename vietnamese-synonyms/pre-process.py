@@ -1,5 +1,5 @@
 folder_path = './ViData/ViCon/'
-files_name = ['400_noun_pairs.txt']
+files_name = ['400_noun_pairs.txt', '400_verb_pairs.txt', '600_adj_pairs.txt']
 output_name = ['out_n.txt', 'out_v.txt', 'out_a.txt']
 
 def custom_replace(s: str) :
@@ -42,5 +42,5 @@ for fn in files_name :
     out += 1
     with open(file=out_file, mode='w', encoding='utf-8') as file:
         file.write(res)
-print(synomyms)
-print(error_line)
+#print(synomyms)
+#print(error_line)
