@@ -12,7 +12,7 @@ from txt2arr_syn import txt2arr
 
 from Client import client
 
-indexName = "vinmec_syno_embedded"
+indexName = "vinmec_syno_embedded1"
 # cannot create existed index. 
 # Please change the indexName for testing!
 
