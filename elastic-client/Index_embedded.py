@@ -12,7 +12,7 @@ from txt2arr_syn import txt2arr
 
 from Client import client
 
-indexName = "vinmec_with_synonyms"
+indexName = "vinmec_syno_embedded"
 # cannot create existed index. 
 # Please change the indexName for testing!
 
@@ -57,6 +57,10 @@ mapping = {
         'title': {
             'type': 'text',
             'analyzer': 'my_vi_analyzer'
+        },
+        'embedded_vector': {
+            'type': 'dense_vector',
+            'dims': 1024
         }
     }
 }
