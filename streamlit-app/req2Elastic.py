@@ -17,7 +17,7 @@ def vectorSearch(q: str):
     #print(q_vector)
     knn_query = {
         "field": "embedding_vec",
-        "k": 4,
+        "k": 5,
         "query_vector": q_vector
     }
 
@@ -25,10 +25,9 @@ def vectorSearch(q: str):
     response = client.search(index="embedded_vectors",  knn=knn_query, source=False)
     docIds = [item['_id'] for item in response['hits']['hits']]
 
-    res_content = client.search(index="vinmec_with_synonyms", query={"terms":{"_id": docIds}})
+    response = client.search(index="vinmec_with_synonyms", query={"terms":{"_id": docIds}})['hits']['hits']
     
-    for doc in res_content['hits']['hits'] :
-        print(doc['_source']['title'])
+    return response
 
 def lexicalSearch(q: str) :
     query = {
@@ -39,14 +38,14 @@ def lexicalSearch(q: str) :
         }
     },
     "from": 0,  
-    "size": 4
+    "size": 5
     }
     response = client.search(index="vinmec_with_synonyms", body=query)['hits']['hits']
-    return [item['_source']['title'] for item in response]
+    return response
 
 def retrieve(q: str) :
-    response = lexicalSearch(q)
-    hits = response['hits']['hits']
+
+    hits = lexicalSearch(q)
     contexts = []
     
     for hit in hits :
@@ -59,3 +58,27 @@ def retrieve(q: str) :
     return contexts
     
 #retrieve("tiểu đường")
+
+
+# Evaluation between LexicalSearch and VectorSearch:
+
+def evaluation(filePath: str, resPath: str):
+    with open (file=filePath, mode='r', encoding='utf-8') as file:
+        quesList = file.readlines()
+    
+    with open (file=resPath, mode='w', encoding='utf-8') as file:
+        for question in quesList:
+            question = question.replace('\n', '')
+
+            lexi_res = lexicalSearch(question)
+            l_res = [item['_source']['link'] for item in lexi_res]
+
+            vec_res = vectorSearch(question)
+            v_res = [item['_source']['link'] for item in vec_res]
+
+            str = f"QUESTION: {question}\nLRES: {'\n'.join(l_res)}\nVRES: {'\n'.join(v_res)}\n{'#' * 80}\n"
+            file.write(str)
+
+        
+
+evaluation(filePath='../questions.txt', resPath='retrieval-evaluation.txt')
