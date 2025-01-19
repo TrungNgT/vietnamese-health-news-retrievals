@@ -45,7 +45,7 @@ def lexicalSearch(q: str) :
 
 def retrieve(q: str) :
 
-    hits = lexicalSearch(q)
+    hits = vectorSearch(q)
     contexts = []
     
     for hit in hits :
