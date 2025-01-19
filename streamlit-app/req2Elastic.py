@@ -17,7 +17,7 @@ def vectorSearch(q: str):
     #print(q_vector)
     knn_query = {
         "field": "embedding_vec",
-        "k": 5,
+        "k": 8,
         "query_vector": q_vector
     }
 
@@ -38,7 +38,7 @@ def lexicalSearch(q: str) :
         }
     },
     "from": 0,  
-    "size": 5
+    "size": 8
     }
     response = client.search(index="vinmec_with_synonyms", body=query)['hits']['hits']
     return response
@@ -81,4 +81,4 @@ def evaluation(filePath: str, resPath: str):
 
         
 
-evaluation(filePath='../questions.txt', resPath='retrieval-evaluation.txt')
+#evaluation(filePath='../questions.txt', resPath='../retrieval-results.txt')
